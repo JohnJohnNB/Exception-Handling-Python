@@ -1,4 +1,4 @@
-# DSO-Exercicio-8
-Tratamento de exceções
+# Exception-Handling-Python
+Exception handling
 
-Exercício 8 da disciplina Desenvolvimento de Sistemas Orientados a Objetos, curso Sistemas de Informação UFSC.
+Exercise for the OOP-Systems-Development class for the Information Systems course under UFSC.
